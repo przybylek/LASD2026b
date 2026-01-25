@@ -4,7 +4,7 @@ import Image from 'react-bootstrap/Image'
 
 const Navigation = () => (
   <Navbar sticky='top' bg='white' className='shadow-sm' expand='xl'>
-    <Navbar.Brand href='#home'><Image src='/ais.png' alt='AIS Logo' /></Navbar.Brand>
+    <Navbar.Brand href='#home'><Image src='/ais.png' alt='AIS Logo' height='40' /></Navbar.Brand>
     <Navbar.Brand href='#home'>LASD@ISD'26</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbar-nav" />
     <Navbar.Collapse id="navbar-nav">
