@@ -16,9 +16,6 @@ const Header = () => (
           <h3 className='text-center h4 pb-3'><small>at the 34rd International Conference on Information Systems Development</small></h3>
           <h4 className='text-center h5'>September 2–4, 2026</h4>
           <h4 className='text-center h5 pb-3'>Prague, Czechia</h4>
-	  <h4 className='text-center h5'>
-		<span className='badge bg-warning p-2 m-3'><a className='u' href='https://y2026.lasd.pl/'>LASD@SAC'26</a>, March 23-27, Thessaloniki, Greece</span>
-	  </h4>
         </div>
       </div>
     </Container>
@@ -27,3 +24,9 @@ const Header = () => (
 )
 
 export default Header
+
+/*
+	  <h4 className='text-center h5'>
+		<span className='badge bg-warning p-2 m-3'><a className='u' href='https://y2026.lasd.pl/'>LASD@SAC'26</a>, March 23-27, Thessaloniki, Greece</span>
+	  </h4>
+*/
