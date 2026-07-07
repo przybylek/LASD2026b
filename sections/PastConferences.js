@@ -8,7 +8,7 @@ const conferences = [
     title: "LASD@SAC'26",
     location: "Thessaloniki 2026",
     website: "https://y2026.lasd.pl",
-    proceedings: ""
+    proceedings: "https://dl.acm.org/doi/proceedings/10.1145/3748522#heading19"
   },
   {
     title: "LASD@ISD'25",
