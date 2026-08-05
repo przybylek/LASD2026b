@@ -7,7 +7,7 @@ import React from 'react'
 import Clock from 'react-live-clock'
 
 
-
+/*
 const Program = () => (
     <Container className="bg-white section p-4 my-5 rounded">
       <a className='target' id='program'/>
@@ -17,9 +17,9 @@ const Program = () => (
       </p>
     </Container>
 )
+*/
 
 
-/*
 const Program = () => (
     <Container className="bg-white section p-4 my-5 rounded">
     <a className='target' id='program'/>
@@ -29,37 +29,35 @@ const Program = () => (
     <Table bordered className="mt-5">
       <tbody>	
 
-        <tr className='text-center table-primary'><th>Wed., September 3rd</th><th>Session 3B (Room 2); chaired by <em>Anna Sołtysik-Piorunkiewicz and Witold Chmielarz</em></th></tr>
-<tr><td className='text-nowrap'>12:00 - 12:30</td><td>Integrating Flow into Portfolio Agility – An Exploratory Study (<em>Joseph Puthenpurackal Chakko, Tim Huygh and Steven De Haes</em>)</td></tr>
-<tr><td className='text-nowrap'>12:30 - 13:00</td><td>How did the Emergence of ChatGPT Impact Stack Overflow? – A Literature Review (<em>Daniel Staegemann, Mariia Rizun, Christian Haertel, Matthias Pohl, Christian Daase and Klaus Turowski</em>)</td></tr>
-<tr><td className='text-nowrap'>13:00 - 13:30</td><td>Overburdened by Debt: A Quantitative Study of Process Debt's Effect on Workload in Agile Teams (<em>Tomas Gustavsson, Muhammad Ovais Ahmad and Hina Saeeda</em>)</td></tr>
-<tr><td className='text-nowrap'>13:30 - 14:00</td><td>Drawing Based Game for Teaching Empirysm and Continuous Improvement in Scrum (<em>Krzysztof Marek and Kamila Martyniuk-Sienkiewicz</em>)</td></tr>
+        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 3D (Room 302); chaired by <em>Session Chair</em></th></tr>
+<tr><td className='text-nowrap'>10:30 - 00:00</td><td>Agile Mindset Impact on Artificial Intelligence adoption in software development (<em>Maciej Kucharski, Jari Jussila and Wioleta Kucharska</em>)</td></tr>
+<tr><td className='text-nowrap'>10:50 - 00:00</td><td>Does Scaling Agile Undermine Psychological Safety? A Two-Wave Study of a SAFe Transformation (<em>Tomas Gustavsson and John Johansson</em>)</td></tr>
+<tr><td className='text-nowrap'>11:10 - 00:00</td><td>Quality Requirements in Large-Scale Agile Development- A Case Study on the implementation of Web Accessibility (<em>Nima Hakimi, Babak A. Farshchian and Parastoo Mohagheghi</em>)</td></tr>
+<tr><td className='text-nowrap'>11:30 - 00:00</td><td>What happened to the Spotify Model? (<em>Francisco Gracia Ahufinger, Javier Gutierrez and Julián Alberto García García</em>)</td></tr>
+<tr><td className='text-nowrap'>11:45 - 00:00</td><td>Transforming the role of the project manager in IT project implementation (<em>Anna Sołtysik-Piorunkiewicz, Witold Chmielarz and Piotr Szulc</em>)</td></tr>
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Wed., September 3rd</th><th>Session 4B (Room 2); chaired by <em>Karolina Muszyńska</em></th></tr>
-<tr><td className='text-nowrap'>15:00 - 15:05</td><td>10th Anniversary of LASD: History & Impact (<em>Adam Przybyłek</em>)</td></tr>
-<tr><td className='text-nowrap'>15:05 - 15:35</td><td>Impact of Agile Software Development Team Leaders’ Mindset on Dynamic Capabilities for Achieving Organizational Agility (<em>Maciej Kucharski, Wioleta Kucharska and Jari Jussila</em>)</td></tr>
-<tr><td className='text-nowrap'>15:35 - 16:05</td><td>A Case Study on Dual-Track Development in Agile Software Development (<em>Henning Rückborn and Eva-Maria Schön</em>)</td></tr>
-<tr><td className='text-nowrap'>16:05 - 16:35</td><td>User Involvement in Relational Digital Transformation: A Case Study of Agile Software Development Practices in a Large Organization (<em>Morteza Moalagh, Vegard Svesengen, Babak A. Farshchian and Marius Mikalsen</em>)</td></tr>
+        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 5D (Room 302); chaired by <em>Session Chair</em></th></tr>
+<tr><td className='text-nowrap'>15:30 - 00:00</td><td>Agile Methods for Safety-Critical Systems: Managing Evolving Requirements in Autonomous Vehicle Perception Systems Development (<em>Hina Saeeda and Soniya Abraham</em>)</td></tr>
+<tr><td className='text-nowrap'>15:50 - 00:00</td><td>Governing Through Interpretation: AI-Augmented Sensemaking in Agile Delivery Teams (<em>Joseph Puthenpurackal Chakko</em>)</td></tr>
+<tr><td className='text-nowrap'>16:10 - 00:00</td><td>How the Rules Shape the Success of Agile in Public Organizations (<em>Tanja Elina Havstorm, Denis Cesko, Mursel Mohammad Naim and Fatima Touray</em>)</td></tr>
+<tr><td className='text-nowrap'>16:30 - 00:00</td><td>Towards LLM-Based Conceptual Modeling from User Stories and Behavior-Driven Development Scenarios in Agile Requirements Engineering (<em>Jorick van Bon, Stephan Poelmans and Yves Wautelet</em>)</td></tr>
+<tr><td className='text-nowrap'>16:45 - 00:00</td><td>Adoption of Scrum Methodology Within a Software Development Team in a Non-Technology Organization (<em>Krzysztof Hankiewicz and Piotr Hankiewicz</em>)</td></tr>
+
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Thu., September 4th</th><th>Session 8 - Poster Exhibit (Room 6)</th></tr>
-        <tr><td className='text-nowrap' rowSpan={2}>10:30-11:30</td><td>Advanced Data Processing Algorithms and Structures for Technical Debt Management with Generative Artificial Intelligence (<em>Adam Czyżewski and Aneta Poniszewska-Maranda</em>)</td></tr>
-        <tr><td>AI-Assisted HCI Design and Sprint Cadence in Scrum Software Development (<em>Slawomir Ostrowski</em>)</td></tr>
+        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 6 - Poster Exhibit (Foyer)</th></tr>
+        <tr><td className='text-nowrap' rowSpan={4}>17:00-18:00</td><td>Monolith vs. Microservices: A Preliminary Performance Analysis Across Java, .NET, and Python (<em>Rafał Jankowski, Aleksandra Boruczkowska, Bartosz Bartczak and Jakub Pilarski</em>)</td></tr>
+    	<tr><td>Defining Metrics for Agile Development of Big Data Analytics Systems (<em>Jacek Maślankowski</em>)</td></tr>
+	<tr><td>Human Users vs. LLMs: An Empirical Study of Requirements Elicitation for Creativity Enhancement App (<em>Kamila Łuczak, Urszula Domagała, Katarzyna Renik and Anna Nowacka</em>)</td></tr>
+	<tr><td>From Generative Co-Design to Agentic Co-Delivery: A Conceptual Framework for Managing AI Process Debt in Scrum (<em>Slawomir Ostrowski</em>)</td></tr>
 
-        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Thu., September 4th</th><th>Session 9B (Room 2); chaired by <em>TBA</em></th></tr>
-<tr><td className='text-nowrap'>12:00 - 12:20</td><td>AI-based Functionalities for Project Communication Management (<em>Karolina Muszyńska and Susanne Marx</em>)</td></tr>
-<tr><td className='text-nowrap'>12:20 - 12:40</td><td>Determinants of IT Project Management. The Experts Comparative Study between Poland and Serbia (<em>Anna Sołtysik-Piorunkiewicz, Witold Chmielarz, Angela Fajsi and Slobodan Moraca</em>)</td></tr>
-<tr><td className='text-nowrap'>12:40 - 13:00</td><td>Non-functional Requirements Documentation Techniques in Agile Software Development: A Focus Group Study (<em>Dominik Kubiaczyk and Aleksander Jarzębowicz</em>)</td></tr>
-<tr><td className='text-nowrap'>13:00 - 13:20</td><td>Effects of Remote Work on Communication in Agile Software Development: Is the Focus Still on People and Collaboration? (<em>Bärbel Bissinger, Michael Fellmann, Hauke Pruss and Nikolas Rödel</em>)</td></tr>
-<tr><td className='text-nowrap'>13:20 - 13:40</td><td>Comparing Code Generation Capabilities of ChatGPT-4o and DeepSeek V3 in Solving TypeScript Programming Problems (<em>Filip Stamenković, Jelica Stanojević and Dejan Simić</em>)</td></tr>
 
       </tbody>
     </Table>
   </Container>
 )
-*/
+
 
 export default Program
 
