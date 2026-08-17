@@ -29,7 +29,7 @@ const Program = () => (
     <Table bordered className="mt-5">
       <tbody>	
 
-        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 3D (Room 302); chaired by <em>Session Chair</em></th></tr>
+        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 3D (Room 302); chaired by <em>Tanja Elina Havstorm</em></th></tr>
 <tr><td className='text-nowrap'>10:30 - 10:50</td><td>Agile Mindset Impact on Artificial Intelligence adoption in software development (<em>Maciej Kucharski, Jari Jussila and Wioleta Kucharska</em>)</td></tr>
 <tr><td className='text-nowrap'>10:50 - 11:10</td><td>Does Scaling Agile Undermine Psychological Safety? A Two-Wave Study of a SAFe Transformation (<em>Tomas Gustavsson and John Johansson</em>)</td></tr>
 <tr><td className='text-nowrap'>11:10 - 11:30</td><td>Quality Requirements in Large-Scale Agile Development- A Case Study on the implementation of Web Accessibility (<em>Nima Hakimi, Babak A. Farshchian and Parastoo Mohagheghi</em>)</td></tr>
@@ -37,7 +37,7 @@ const Program = () => (
 <tr><td className='text-nowrap'>11:45 - 12:00</td><td>Transforming the role of the project manager in IT project implementation (<em>Anna Sołtysik-Piorunkiewicz, Witold Chmielarz and Piotr Szulc</em>)</td></tr>
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 5D (Room 302); chaired by <em>Session Chair</em></th></tr>
+        <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 5D (Room 302); chaired by <em>Eva-Maria Schön and Francisco Gracia Ahufinger</em></th></tr>
 <tr><td className='text-nowrap'>15:30 - 15:50</td><td>Agile Methods for Safety-Critical Systems: Managing Evolving Requirements in Autonomous Vehicle Perception Systems Development (<em>Hina Saeeda and Soniya Abraham</em>)</td></tr>
 <tr><td className='text-nowrap'>15:50 - 16:10</td><td>Governing Through Interpretation: AI-Augmented Sensemaking in Agile Delivery Teams (<em>Joseph Puthenpurackal Chakko</em>)</td></tr>
 <tr><td className='text-nowrap'>16:10 - 16:30</td><td>How the Rules Shape the Success of Agile in Public Organizations (<em>Tanja Elina Havstorm, Denis Cesko, Mursel Mohammad Naim and Fatima Touray</em>)</td></tr>
