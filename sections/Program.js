@@ -40,7 +40,7 @@ const Program = () => (
         <tr className='text-center table-primary'><th>Wed., September 2nd</th><th>Session 5D (Room 302); chaired by <em>Eva-Maria Schön and Francisco Gracia Ahufinger</em></th></tr>
 <tr><td className='text-nowrap'>15:30 - 15:50</td><td>Agile Methods for Safety-Critical Systems: Managing Evolving Requirements in Autonomous Vehicle Perception Systems Development (<em>Hina Saeeda and Soniya Abraham</em>)</td></tr>
 <tr><td className='text-nowrap'>15:50 - 16:10</td><td>Governing Through Interpretation: AI-Augmented Sensemaking in Agile Delivery Teams (<em>Joseph Puthenpurackal Chakko</em>)</td></tr>
-<tr><td className='text-nowrap'>16:10 - 16:30</td><td>How the Rules Shape the Success of Agile in Public Organizations (<em>Tanja Elina Havstorm, Denis Cesko, Mursel Mohammad Naim and Fatima Touray</em>) <span className='badge bg-info text-dark ms-2'>🏅 ISD'26 Runner-up Award</span></td></tr>
+<tr><td className='text-nowrap'>16:10 - 16:30</td><td>How the Rules Shape the Success of Agile in Public Organizations (<em>Tanja Elina Havstorm, Denis Cesko, Mursel Mohammad Naim and Fatima Touray</em>) <span className='badge bg-warning text-dark ms-2'>🏅 ISD'26 Runner-up Award</span></td></tr>
 <tr><td className='text-nowrap'>16:30 - 16:45</td><td>Towards LLM-Based Conceptual Modeling from User Stories and Behavior-Driven Development Scenarios in Agile Requirements Engineering (<em>Jorick van Bon, Stephan Poelmans and Yves Wautelet</em>)</td></tr>
 <tr><td className='text-nowrap'>16:45 - 17:00</td><td>Adoption of Scrum Methodology Within a Software Development Team in a Non-Technology Organization (<em>Krzysztof Hankiewicz and Piotr Hankiewicz</em>)</td></tr>
 
